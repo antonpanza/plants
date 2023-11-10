@@ -1,0 +1,14 @@
+:root {
+    --font-regular: "Inter", sans-serif;
+    --font-title: "Inika", sans-serif;
+
+    --color-primary: #499a18;
+    --color-secondary: #e06733;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-base-0: #010201;
+    --color-base-100: #717171;
+    --color-base-200: #636060;
+    --color-light: #edf2ec;
+    --color-borded: #e3e1d5;
+}
